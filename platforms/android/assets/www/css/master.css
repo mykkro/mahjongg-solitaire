@@ -1,0 +1,53 @@
+
+    
+.tile-wrapper {
+}
+
+.tile-wrapper.selected .tile-overlay {
+	background-color: rgba(0,255,0,0.4) !important;
+}
+
+.tile-wrapper.selected.notmatching .tile-overlay {
+	background-color: rgba(255,0,0,0.4) !important;
+}
+
+.tile {       
+	background-image: url(img/tiles/bamboo1.png);
+	background-position: -22px 0px;
+	width: 84px;
+	height: 128px;
+	margin: 0px;
+	padding: 0px;
+	
+	-webkit-box-shadow: 10px -20px 5px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:   10px -20px 5px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         10px -20px 5px 0px rgba(50, 50, 50, 0.75);
+	
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.tile-overlay {       
+	width: 84px;
+	height: 128px;
+	margin: 0px;
+	padding: 0px;
+	
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+/*
+#board-wrapper {
+	position: relative;
+	width: 630px;
+	height: 512px;
+	overflow: hidden;
+}
+*/
+
+#board2 {
+	width: 1260px;
+	height: 1024px;
+}

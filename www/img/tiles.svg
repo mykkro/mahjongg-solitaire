@@ -1,0 +1,131 @@
+<svg id="board" width="600" height=" 500" viewBox="0 0 1260 1024" style="display: none;">
+<defs>
+	<pattern id="bamboo1" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/bamboo1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="bamboo2" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/bamboo1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="bamboo3" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/bamboo1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="bamboo4" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/bamboo1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="bamboo5" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/bamboo1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="bamboo6" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/bamboo1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="bamboo7" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/bamboo1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="bamboo8" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/bamboo1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="bamboo9" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/bamboo1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="man1" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/man1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="man2" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/man1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="man3" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/man1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="man4" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/man1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="man5" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/man1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="man6" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/man1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="man7" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/man1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="man8" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/man1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="man9" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/man1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="pin1" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/pin1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="pin2" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/pin1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="pin3" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/pin1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="pin4" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/pin1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="pin5" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/pin1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="pin6" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/pin1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="pin7" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/pin1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="pin8" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/pin1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="pin9" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/pin1.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="dragon1" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/dragon-chun.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="dragon2" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/dragon-green.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="dragon3" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/dragon-haku.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="wind1" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/wind-east.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="wind2" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/wind-north.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="wind3" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/wind-south.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="wind4" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/wind-west.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="flower1" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/flower-bamboo.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="flower2" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/flower-chrysanthemum.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="flower3" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/flower-orchid.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="flower4" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/flower-plum.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="season1" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/season-autumn.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="season2" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/season-spring.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="season3" patternUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/season-summer.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+	<pattern id="season4" patternContentUnits="userSpaceOnUse" width="84" height="128">
+		<image xlink:href="img/tiles/season-winter.png" x="-22" y="0" width="128" height="128" />
+	</pattern>
+</defs>
+
+</svg>
